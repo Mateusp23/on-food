@@ -5,3 +5,4 @@ export * from "./search";
 export * from "./dishe";
 export * from "./dishe-details";
 export * from "./dishe-list";
+export * from "./character";
